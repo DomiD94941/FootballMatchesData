@@ -1,1 +1,6 @@
-
+API_KEY=your-API-FOOTBALL.COM-key
+DATA_BASE_USER=db-username
+DATA_BASE_USER_PASSWORD=db-password
+DATA_BASE_HOST=db-host
+DATA_BASE_PORT=db-port
+DATA_BASE_SID=db-sid
