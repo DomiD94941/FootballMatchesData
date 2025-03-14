@@ -1,4 +1,4 @@
-# .env
+# .env.example
 ```
 API_KEY=
 DATA_BASE_USER=
